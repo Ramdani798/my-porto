@@ -14,7 +14,7 @@ export default function Home() {
       <section className="w-full flex flex-col items-center justify-center min-h-[90vh] px-6 text-center">
         <FadeIn direction="down" delay={0.1}>
           <div className="inline-block px-4 py-1.5 mb-6 rounded-full border border-gray-800 bg-gray-900/50 text-sm font-medium text-blue-400">
-            Software Engineer
+            Muhamad Ramdani
           </div>
         </FadeIn>
 
