@@ -20,9 +20,9 @@ export default function Home() {
 
         <FadeIn direction="up" delay={0.2}>
           <h1 className="text-6xl md:text-8xl font-extrabold mb-6 tracking-tight">
-            Inovasi{" "}
+            Software Engineer{" "}
             <span className="text-transparent bg-clip-text bg-gradient-to-r from-blue-500 to-cyan-400">
-              Digital yang Solid.
+              Engineer.
             </span>
           </h1>
         </FadeIn>
