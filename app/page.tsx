@@ -20,7 +20,7 @@ export default function Home() {
 
         <FadeIn direction="up" delay={0.2}>
           <h1 className="text-6xl md:text-8xl font-extrabold mb-6 tracking-tight">
-            Software Engineer{" "}
+            Software{" "}
             <span className="text-transparent bg-clip-text bg-gradient-to-r from-blue-500 to-cyan-400">
               Engineer.
             </span>
